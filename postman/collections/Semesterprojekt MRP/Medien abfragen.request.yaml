@@ -1,0 +1,8 @@
+$kind: http-request
+url: http://localhost:8080/media/2
+method: GET
+auth:
+  type: bearer
+  credentials:
+    token: 51d82193-ab5b-4cc4-9940-1d64d7848eb5
+order: 4000
