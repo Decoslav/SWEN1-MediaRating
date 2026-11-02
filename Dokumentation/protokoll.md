@@ -24,7 +24,7 @@ Die Struktur habe ich vorerst einfach gehalten und alle Klassen im Package `org.
 PostgreSQL läuft in einem Docker-Container. Ein Volume speichert die Daten. Für SQL-Abfragen wird "PreparedStatement" verwendet.
 Die Ersteller-ID wird aus dem angemeldeten Benutzer übernommen. Nur der Ersteller darf Medieneinträge ändern oder löschen.
 
-**Github-Repository** :
+**Github-Repository** : https://github.com/Decoslav/SWEN1-MediaRating
 **Postman** liegt in `postman/collections/Semesterprojekt MRP`
 
 ## Aufgetretene Probleme
